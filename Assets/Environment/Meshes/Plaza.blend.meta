@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: d2eb28a67eed0e2479cbcf04baac6649
+timeCreated: 1441645868
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BezierCurve
+    100002: BezierCurve_001
+    100004: BezierCurve_002
+    100006: Cone
+    100008: Cone_001
+    100010: Cone_002
+    100012: Cone_003
+    100014: Cone_004
+    100016: Cone_005
+    100018: Cone_006
+    100020: Cube
+    100022: Cylinder
+    100024: Cylinder_001
+    100026: Cylinder_002
+    100028: Cylinder_003
+    100030: Cylinder_004
+    100032: Cylinder_005
+    100034: Cylinder_006
+    100036: Cylinder_007
+    100038: Cylinder_008
+    100040: Plane
+    100042: Plane_001
+    100044: Plane_003
+    100046: //RootNode
+    400000: BezierCurve
+    400002: BezierCurve_001
+    400004: BezierCurve_002
+    400006: Cone
+    400008: Cone_001
+    400010: Cone_002
+    400012: Cone_003
+    400014: Cone_004
+    400016: Cone_005
+    400018: Cone_006
+    400020: Cube
+    400022: Cylinder
+    400024: Cylinder_001
+    400026: Cylinder_002
+    400028: Cylinder_003
+    400030: Cylinder_004
+    400032: Cylinder_005
+    400034: Cylinder_006
+    400036: Cylinder_007
+    400038: Cylinder_008
+    400040: Plane
+    400042: Plane_001
+    400044: Plane_003
+    400046: //RootNode
+    2300000: BezierCurve
+    2300002: BezierCurve_001
+    2300004: BezierCurve_002
+    2300006: Cone
+    2300008: Cone_001
+    2300010: Cone_002
+    2300012: Cone_003
+    2300014: Cone_004
+    2300016: Cone_005
+    2300018: Cone_006
+    2300020: Cube
+    2300022: Cylinder
+    2300024: Cylinder_001
+    2300026: Cylinder_002
+    2300028: Cylinder_003
+    2300030: Cylinder_004
+    2300032: Cylinder_005
+    2300034: Cylinder_006
+    2300036: Cylinder_007
+    2300038: Cylinder_008
+    2300040: Plane
+    2300042: Plane_001
+    2300044: Plane_003
+    3300000: BezierCurve
+    3300002: BezierCurve_001
+    3300004: BezierCurve_002
+    3300006: Cone
+    3300008: Cone_001
+    3300010: Cone_002
+    3300012: Cone_003
+    3300014: Cone_004
+    3300016: Cone_005
+    3300018: Cone_006
+    3300020: Cube
+    3300022: Cylinder
+    3300024: Cylinder_001
+    3300026: Cylinder_002
+    3300028: Cylinder_003
+    3300030: Cylinder_004
+    3300032: Cylinder_005
+    3300034: Cylinder_006
+    3300036: Cylinder_007
+    3300038: Cylinder_008
+    3300040: Plane
+    3300042: Plane_001
+    3300044: Plane_003
+    4300000: Plane_001
+    4300002: Cone_006
+    4300004: Cylinder_008
+    4300006: Cylinder_007
+    4300008: Cone_005
+    4300010: Cone_004
+    4300012: Cylinder_006
+    4300014: Cylinder_005
+    4300016: Cone_003
+    4300018: Cone_002
+    4300020: Cylinder_004
+    4300022: Cylinder_003
+    4300024: Cone_001
+    4300026: Cone
+    4300028: Cylinder
+    4300030: BezierCurve_002
+    4300032: BezierCurve_001
+    4300034: Cylinder_002
+    4300036: Cylinder_001
+    4300038: BezierCurve
+    4300040: Cube
+    4300042: Plane
+    4300044: Plane_003
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
